@@ -65,4 +65,3 @@ GPA 4.17 / 4.5
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/03OhI)
 
 - 📧 tkflspfhdhk@gmail.com
-- 📱 010-9523-3929
