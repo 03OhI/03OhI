@@ -65,3 +65,7 @@ GPA 4.17 / 4.5
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/03OhI)
 
 - 📧 tkflspfhdhk@gmail.com
+
+## 라이선스
+
+이 저장소의 자체 저작물에는 [GNU Affero General Public License v3.0](LICENSE) (`AGPL-3.0-only`)가 적용됩니다.
